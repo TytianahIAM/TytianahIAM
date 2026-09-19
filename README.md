@@ -6,6 +6,6 @@
 - [Role Assignments](https://github.com/TytianahIAM/role-assignments-repository)
 - [Group Assignment](https://github.com/TytianahIAM/group-assignments)
 - [Identity Lifecycle](https://github.com/TytianahIAM/identity-lifecycle)
-- [Audit Logs]()
+- [Audit Logs](https://github.com/TytianahIAM/audit-logs)
 - [Sign-In Logs]()
 - [Authentication]()
