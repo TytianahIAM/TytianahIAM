@@ -4,7 +4,7 @@
 - [Creating User's in Entra ID](https://github.com/TytianahIAM/Creating-user-accounts)
 - [Cloud Provisioning - P2 Licensing](https://github.com/TytianahIAM/P2-Licensing)
 - [Role Assignments](https://github.com/TytianahIAM/role-assignments-repository)
-- [Group Assignment]()
+- [Group Assignment](https://github.com/TytianahIAM/group-assignments)
 - [Identity Lifecycle]()
 - [Audit Logs]()
 - [Sign-In Logs]()
