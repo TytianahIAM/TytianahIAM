@@ -8,4 +8,4 @@
 - [Identity Lifecycle](https://github.com/TytianahIAM/identity-lifecycle)
 - [Audit Logs](https://github.com/TytianahIAM/audit-logs)
 - [Sign-In Logs](https://github.com/TytianahIAM/sign-in-logs)
-- [Authentication]()
+- [Authentication](https://github.com/TytianahIAM/authentication)
