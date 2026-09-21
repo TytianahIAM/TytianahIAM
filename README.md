@@ -23,7 +23,7 @@
 Deployment, Networking, Troubleshooting
 - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/TytianahIAM/Creating-Resource-Group-Deploying-Virtual-Machine-and-RDP)
 - [Creating and Managing Local Users](https://github.com/TytianahIAM/Creating-and-Managing-Local-Users)
-- [Troubleshooting Network Connectivity]()
+- [Troubleshooting Network Connectivity](https://github.com/TytianahIAM/Troubleshooting-Network-Connectivity)
 - [Managing Windows Updates]()
 - [Software Installation]()
 - [Print Queue]()
