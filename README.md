@@ -30,4 +30,4 @@ Deployment, Networking, Troubleshooting
 - [PowerShell](https://github.com/TytianahIAM/PowerShell)
 
 Ticketing System
-- [SpiceWorks Ticketing System]()
+- [SpiceWorks Ticketing System](https://github.com/TytianahIAM/Spiceworks-Ticketing-System)
