@@ -21,7 +21,7 @@
 - [Audit Logs in Okta](https://github.com/TytianahIAM/Audit-Logs-in-Okta)
 
 Deployment, Networking, Troubleshooting
-- [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+- [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/TytianahIAM/Creating-Resource-Group-Deploying-Virtual-Machine-and-RDP)
 - [Creating and Managing Local Users]()
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
