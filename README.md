@@ -25,7 +25,7 @@ Deployment, Networking, Troubleshooting
 - [Creating and Managing Local Users](https://github.com/TytianahIAM/Creating-and-Managing-Local-Users)
 - [Troubleshooting Network Connectivity](https://github.com/TytianahIAM/Troubleshooting-Network-Connectivity)
 - [Managing Windows Updates](https://github.com/TytianahIAM/Managing-Windows-Updates)
-- [Software Installation]()
+- [Software Installation](https://github.com/TytianahIAM/Software-Installation)
 - [Print Queue]()
 - [Credential Manager and Cache]()
 - [PowerShell]()
