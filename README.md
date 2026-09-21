@@ -26,7 +26,6 @@ Deployment, Networking, Troubleshooting
 - [Troubleshooting Network Connectivity](https://github.com/TytianahIAM/Troubleshooting-Network-Connectivity)
 - [Managing Windows Updates](https://github.com/TytianahIAM/Managing-Windows-Updates)
 - [Software Installation](https://github.com/TytianahIAM/Software-Installation)
-- [Print Queue]()
 - [Credential Manager and Cache]()
 - [PowerShell]()
 
