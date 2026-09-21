@@ -19,3 +19,16 @@
 - [Attribute-Based Access Control(ABAC) Rules](https://github.com/TytianahIAM/Attribute-Based-Access-Control-ABAC-Rules)
 - [Device Management in Okta](https://github.com/TytianahIAM/Device-Management-in-Okta)
 - [Audit Logs in Okta](https://github.com/TytianahIAM/Audit-Logs-in-Okta)
+
+Deployment, Networking, Troubleshooting
+- [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+- [Creating and Managing Local Users]()
+- [Troubleshooting Network Connectivity]()
+- [Managing Windows Updates]()
+- [Software Installation]()
+- [Print Queue]()
+- [Credential Manager and Cache]()
+- [PowerShell]()
+
+Ticketing System
+- [SpiceWorks Ticketing System]()
