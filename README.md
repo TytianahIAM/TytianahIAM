@@ -18,4 +18,4 @@
 - [Creating Groups in Okta Environment](https://github.com/TytianahIAM/Creating-Groups-in-Okta-Environment)
 - [Attribute-Based Access Control(ABAC) Rules](https://github.com/TytianahIAM/Attribute-Based-Access-Control-ABAC-Rules)
 - [Device Management in Okta](https://github.com/TytianahIAM/Device-Management-in-Okta)
-- [Audit Logs in Okta]()
+- [Audit Logs in Okta](https://github.com/TytianahIAM/Audit-Logs-in-Okta)
