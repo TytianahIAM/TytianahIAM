@@ -27,7 +27,7 @@ Deployment, Networking, Troubleshooting
 - [Managing Windows Updates](https://github.com/TytianahIAM/Managing-Windows-Updates)
 - [Software Installation](https://github.com/TytianahIAM/Software-Installation)
 - [Credential Manager and Cache](https://github.com/TytianahIAM/Credential-Manager-_-Cache)
-- [PowerShell]()
+- [PowerShell](https://github.com/TytianahIAM/PowerShell)
 
 Ticketing System
 - [SpiceWorks Ticketing System]()
