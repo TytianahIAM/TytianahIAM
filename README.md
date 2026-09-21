@@ -12,7 +12,7 @@
   
 <b> Okta Administration</b>
 - [Import Users from Entra ID to Okta Environment](https://github.com/TytianahIAM/Import-Users-from-Entra-to-Okta)
-- [Enrollment Provisioning in Okta]()
+- [Enrollment Provisioning in Okta](https://github.com/TytianahIAM/Enrollment-Provisioning-in-Okta)
 - [Creating Users in Okta Manually]()
 - [Adding Attributes to User Profiles]()
 - [Creating Groups in Okta Environment]()
