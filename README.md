@@ -15,7 +15,7 @@
 - [Enrollment Provisioning in Okta](https://github.com/TytianahIAM/Enrollment-Provisioning-in-Okta)
 - [Creating Users in Okta Manually](https://github.com/TytianahIAM/Creating-Users-in-Okta-Manually)
 - [Adding Attributes to User Profiles](https://github.com/TytianahIAM/Adding-Attributes-to-User-Profiles)
-- [Creating Groups in Okta Environment]()
+- [Creating Groups in Okta Environment](https://github.com/TytianahIAM/Creating-Groups-in-Okta-Environment)
 - [Attribute-Based Access Control(ABAC) Rules]()
 - [Device Management in Okta]()
 - [Audit Logs in Okta]()
